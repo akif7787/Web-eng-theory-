@@ -30,7 +30,7 @@ nav a {
     background-image: url('image/hero-image.png');
     background-size: cover;
     background-position: center;
-    color: hsl(138, 95%, 22%);
+    color: hsl(0, 0%, 100%);
     text-align: center;
     padding: 100px 0;
     position: relative;
